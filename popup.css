@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.popup-container {
+    width: 400px;
+    padding: 20px;
+}
+
+.logo {
+    
+    width: 250px;
+    margin-top: -20px;
+    margin-right: -20px;
+}
+
+.slogan {
+    font-size: 18px;
+    font-family: 'Itim';
+    margin-bottom: 10px;
+}
+
+.welcome-box {
+    background-color: white;
+    padding: 2px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.welcome-box h1 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.info-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.info-table td {
+    padding: 5px;
+    border-bottom: 1px solid white;
+}
+
+.info-table td:first-child {
+    width: 200px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.info-table td:last-child {
+    width: 500px;
+    text-align: center;
+    font-size: 15px;
+}
